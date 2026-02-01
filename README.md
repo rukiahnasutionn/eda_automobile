@@ -1,6 +1,6 @@
 # Exploratory Data Analysis - Automobile
 
-[Notebook](EDA Automobile.ipynb)
+![Notebook](EDA Automobile.ipynb)
 
 ## Project Overview
 
