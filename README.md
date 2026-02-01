@@ -1,5 +1,7 @@
 # Exploratory Data Analysis - Automobile
 
+[Notebook](EDA Automobile.ipynb)
+
 ## Project Overview
 
 When looking at vehicle prices, it’s easy to assume that higher prices simply mean better cars. But what actually drives those price differences? In this project, I explored an automobile dataset from Kaggle to understand how vehicle specifications and manufacturer characteristics influence pricing. The analysis started with cleaning and preparing raw data, followed by exploratory data analysis to uncover patterns in engine performance, price distribution, and manufacturer dominance.
